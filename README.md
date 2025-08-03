@@ -8,24 +8,30 @@ Identify the reasons behind declining sales and profit, and help decision-makers
 
 ## What I Did
 
-Cleaned and standardized raw sales data (removed duplicates, fixed inconsistent formats),
-Analyzed key metrics including total sales, profit, regional performance, averages, and outliers,
-Used Pivot Tables and filters to segment the data and highlight patterns,
-Built an interactive Excel dashboard with slicers to support real-time filtering and data exploration,
+Cleaned and standardized raw sales data (removed duplicates, fixed inconsistent formats)
+
+Analyzed key metrics including total sales, profit, regional performance, averages, and outliers
+
+Used Pivot Tables and filters to segment the data and highlight patterns
+
+Built an interactive Excel dashboard with slicers to support real-time filtering and data exploration
+
 Created a presentation to communicate findings, insights, and recommendations in a clear and simple format
 
 ## Tools Used
 
-Microsoft Excel
-Pivot Tables
-Slicers
-Conditional Formatting
+Microsoft Excel, 
+Pivot Tables, 
+Slicers, 
+Conditional Formatting, 
 PowerPoint (for the final presentation)
 
 ## Deliverables
 
 Cleaned and structured Excel files
+
 Interactive sales dashboard
+
 Final presentation summarizing insights and suggested actions
 
 ## Outcome
