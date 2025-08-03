@@ -1,5 +1,5 @@
 
-#Sales Data Analysis – Case Study
+# Sales Data Analysis – Case Study
 This project presents a full sales data analysis workflow using Microsoft Excel. The objective was to investigate the causes of company losses and provide actionable insights to improve performance.
 
 ##Objective
