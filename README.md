@@ -59,7 +59,7 @@ The analysis highlighted performance gaps across specific regions and product ca
 
 ![data cleaning](project%20image%20/report,pivot.png)
 
-![data cleaning](project%20image%20/dishboard.png)
+![data cleaning](project%20image%20/dashboard.png)
 
 ![data cleaning](project%20image%20/sliser,dashboard.png)
 
