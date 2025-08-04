@@ -36,5 +36,4 @@ Final presentation summarizing insights and suggested actions
 
 ## Outcome
 The analysis highlighted performance gaps across specific regions and product categories, uncovering major loss points. The final dashboard and presentation enabled stakeholders to quickly understand the situation and explore solutions.
-
 [Presentation link](https://www.canva.com/design/DAGmO1t9II8/Wjsuo4f5s7_ULTEckj4j1Q/view?utm_content=DAGmO1t9II8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3e6ab02c01)
